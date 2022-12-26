@@ -1,0 +1,12 @@
+.ichi, 
+.tachi {
+font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.ichi {
+    background-color: black;
+    color: white;
+}
+.tachi {
+    background-color: yellow;
+}
